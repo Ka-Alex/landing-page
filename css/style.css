@@ -1,0 +1,13 @@
+/* Resets the default box-sizing to border-box */
+*,
+*::before,
+*::after {
+box-sizing: border-box;
+}
+
+/* Resets the default padding and margin of browser */
+* {
+margin: 0;
+padding: 0;
+}
+
